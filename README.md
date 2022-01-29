@@ -1,5 +1,5 @@
 
-<img align="right" src="https://notanymike.github.io/img/me.png" alt="me" style="display: block; margin: 0 auto; height: 200px;"> 
+<!-- <img align="right" src="https://notanymike.github.io/img/me.png" alt="me" style="display: block; margin: 0 auto; height: 200px;"> -->
 
 ### Hi there 👋
 
